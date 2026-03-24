@@ -22,3 +22,23 @@ This project focuses on the Asset Analytics & Facility Management (FM) lifecycle
 
 3.Diagnostic Analysis: Connects the two to find the Root Cause of failures.
 
+### **Key Features**
+1. Project Metadata: ID, type (bridge, road, building, etc.), location, and timeline.
+
+2. Financial Data: Planned vs. actual cost, cost overruns.
+
+3. Scheduling Data: Planned vs. actual duration, schedule deviation.
+
+4. Structural Health Monitoring: Vibration levels, crack width, load-bearing capacity.
+
+5. Environmental Factors: Temperature, humidity, air quality, weather conditions.
+
+6. Resource & Safety Management: Material usage, labor hours, equipment utilization, accident records.
+
+7. Drone-Based Monitoring: Image analysis scores, anomaly detection, completion percentage.
+
+8. Target Variable: Risk Level (Low, Medium, High) based on cost, schedule, safety, and structural health. 
+
+### **Data Overview**
+
+
