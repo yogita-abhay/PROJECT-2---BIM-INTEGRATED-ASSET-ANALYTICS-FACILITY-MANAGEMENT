@@ -10,8 +10,8 @@ This project focuses on the Asset Analytics & Facility Management (FM) lifecycle
 
 3. Engineered Predictive Maintenance Metrics: Develop data-driven thresholds for environmental factors (Temperature, Air Quality) and structural wear to automate maintenance triggers within the BIM environment.
 
-4.Optimize Resource & Budget Allocation: Utilize predictive modeling to prioritize high-risk assets for funding, ensuring that limited maintenance budgets are directed toward the most critical infrastructure needs.
+4. Optimize Resource & Budget Allocation: Utilize predictive modeling to prioritize high-risk assets for funding, ensuring that limited maintenance budgets are directed toward the most critical infrastructure needs.
 
-5.Isolate Structural & Safety Bottlenecks: Use drone-based monitoring scores and anomaly detection to isolate specific geographical or structural points of failure that require immediate intervention.
+5. Isolate Structural & Safety Bottlenecks: Use drone-based monitoring scores and anomaly detection to isolate specific geographical or structural points of failure that require immediate intervention.
 
 
