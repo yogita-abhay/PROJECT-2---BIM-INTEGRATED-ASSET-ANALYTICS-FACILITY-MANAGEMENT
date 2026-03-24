@@ -39,6 +39,20 @@ This project focuses on the Asset Analytics & Facility Management (FM) lifecycle
 
 8. Target Variable: Risk Level (Low, Medium, High) based on cost, schedule, safety, and structural health. 
 
-### **Data Overview**
+### **Data Modelling**
+
+<img width="1412" height="859" alt="image" src="https://github.com/user-attachments/assets/981855ac-79b9-43b4-add0-d1a0a5637947" />
+
+
+### **SCHEMA OF THE MODEL**
+
+1.Fact Table: BIM-AI DATASET
+
+2. Dim Tables: 
+a) DIM-PRJ 
+b) DIM-DATES 
+c) Anamoly Table
+
+3. Logic Table: DIM-AI-INTELLIGENCE
 
 
