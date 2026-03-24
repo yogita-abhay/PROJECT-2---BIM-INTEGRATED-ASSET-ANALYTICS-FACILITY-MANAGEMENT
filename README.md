@@ -14,4 +14,11 @@ This project focuses on the Asset Analytics & Facility Management (FM) lifecycle
 
 5. Isolate Structural & Safety Bottlenecks: Use drone-based monitoring scores and anomaly detection to isolate specific geographical or structural points of failure that require immediate intervention.
 
+### **The Project Workflow**
+
+1.BIM: Provides the 3D data and planned costs.
+
+2.AI Sensors: Provide real-time health data and anomaly flags.
+
+3.Diagnostic Analysis: Connects the two to find the Root Cause of failures.
 
