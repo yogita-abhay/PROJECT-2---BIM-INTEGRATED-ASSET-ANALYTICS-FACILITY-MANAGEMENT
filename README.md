@@ -55,4 +55,7 @@ c) Anamoly Table
 
 3. Logic Table: DIM-AI-INTELLIGENCE
 
+### **EXCEL DASHBOARD**
+
+<img width="1953" height="1000" alt="image" src="https://github.com/user-attachments/assets/d997112d-8afc-4799-ae5f-2236dc54a3cc" />
 
