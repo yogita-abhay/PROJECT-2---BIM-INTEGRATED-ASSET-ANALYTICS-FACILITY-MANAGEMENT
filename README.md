@@ -59,3 +59,10 @@ c) Anamoly Table
 
 <img width="1953" height="1000" alt="image" src="https://github.com/user-attachments/assets/d997112d-8afc-4799-ae5f-2236dc54a3cc" />
 
+### **POWER BI DASHBOARD**
+
+<img width="1415" height="789" alt="image" src="https://github.com/user-attachments/assets/b9cf45b1-29a5-4f6a-9428-1b01a0177932" />
+
+<img width="1428" height="799" alt="image" src="https://github.com/user-attachments/assets/bae91784-7de8-441a-90d6-35b43216a6aa" />
+
+
