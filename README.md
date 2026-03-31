@@ -133,6 +133,10 @@ c) Anamoly Table
 
 ### **FINAL KPI METRICS**
 
+1) BIM (Building Information Modeling): A digital representation of a facility's physical and functional characteristics, serving as a shared knowledge resource for decisions during its life cycle.
+
+2) Structural Health Monitoring (SHM): The process of implementing a damage detection and characterization strategy for engineering structures using embedded sensor data.
+
 3) AI Anomaly Detection Frequency: An AI-driven process that identifies data points, events, or observations that deviate significantly from a dataset's normal behavior.
 
 4) Equipment Utilization: A measure of operational efficiency that tracks the active usage time of heavy machinery against its total availability to optimize fleet deployment.
@@ -153,7 +157,11 @@ c) Anamoly Table
 
 12) Environmental profile: Frequency of weather events
 
-13) Structural stress Profile: average load vs Vibration by Asset Category14) Average Schedule Deviation: The variance between the planned timeline and actual progress, measured in days of delay or acceleration.15) Total Cost overrun: The total financial leakage representing the difference between the planned budget and actual expenditure across all projects.
+13) Structural stress Profile: average load vs Vibration by Asset Category
+
+14) Average Schedule Deviation: The variance between the planned timeline and actual progress, measured in days of delay or acceleration.
+
+15) Total Cost overrun: The total financial leakage representing the difference between the planned budget and actual expenditure across all projects.
 
 16) Average safety risk: An aggregate probability score used to quantify the overall danger level across sites and prioritize high-risk assets for urgent safety interventions
 
