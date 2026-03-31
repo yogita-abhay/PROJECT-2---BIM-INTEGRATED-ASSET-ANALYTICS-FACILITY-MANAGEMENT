@@ -131,4 +131,33 @@ c) Anamoly Table
 
 <img width="1428" height="799" alt="image" src="https://github.com/user-attachments/assets/bae91784-7de8-441a-90d6-35b43216a6aa" />
 
+### **FINAL KPI METRICS**
+
+3) AI Anomaly Detection Frequency: An AI-driven process that identifies data points, events, or observations that deviate significantly from a dataset's normal behavior.
+
+4) Equipment Utilization: A measure of operational efficiency that tracks the active usage time of heavy machinery against its total availability to optimize fleet deployment.
+
+5) Load Bearing efficiency: The ratio of actual structural loading to designed capacity, used to identify underutilized assets or those operating dangerously close to failure thresholds.
+
+6) Project Type Counts: A categorical breakdown of the portfolio that identifies the distribution of different asset classes, such as Bridges, Tunnels, and Buildings, for targeted risk management.
+
+7) Resource Utilization: Average Equipment Utilization and Labor Hours per project type.
+
+8) Cost Overrun Intensity: Total Cost Overrun as a percentage of Planned Cost. (current average is $5.1M).
+
+9) Critical Anamolies: The total volume of structural irregularities identified by the AI sensors across all project sites.
+
+10) Average Completion %: The current aggregate progress of the project portfolio against defined construction milestones.
+
+11) Load Safety Efficiency: A critical safety ratio comparing actual structural loading to design capacity to ensure assets are operating within their engineered stress limits.
+
+12) Environmental profile: Frequency of weather events
+
+13) Structural stress Profile: average load vs Vibration by Asset Category14) Average Schedule Deviation: The variance between the planned timeline and actual progress, measured in days of delay or acceleration.15) Total Cost overrun: The total financial leakage representing the difference between the planned budget and actual expenditure across all projects.
+
+16) Average safety risk: An aggregate probability score used to quantify the overall danger level across sites and prioritize high-risk assets for urgent safety interventions
+
+17) Planned vs. Actual: A comparison between the theoretical project goals (budget/time) and the real-world execution data.
+
+18) Image Analysis Score: A quantitative value assigned by a computer vision model reflecting the severity of structural defects identified from site photographs.
 
