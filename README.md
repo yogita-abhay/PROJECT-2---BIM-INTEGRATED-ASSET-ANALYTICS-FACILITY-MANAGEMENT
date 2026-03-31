@@ -1,4 +1,4 @@
-<img width="2149" height="860" alt="image" src="https://github.com/user-attachments/assets/9d4ca2da-19d5-4871-a4ba-d976273763ea" /># PROJECT-2--BIM-INTEGRATED-ASSET-ANALYTICS-FACILITY-MANAGEMENT
+# PROJECT-2--BIM-INTEGRATED-ASSET-ANALYTICS-FACILITY-MANAGEMENT
 
 ## Project Overview
 This project focuses on the Asset Analytics & Facility Management (FM) lifecycle by integrating Building Information Modeling (BIM) with Artificial Intelligence (AI) to optimize civil infrastructure performance. By analyzing the "Data-to-Decision Gap," the study utilizes structural health monitoring (vibration, crack width), real-time IoT environmental metrics, and drone-based visual intelligence. The analysis provides predictive insights for four key infrastructure categories (Bridges, Roads, Buildings, and Pipelines) to transition from reactive repairs to a Proactive Digital Twin model. By correlating historical cost deviations with real-time risk factors, the project supports strategic decision-making in capital expenditure (CAPEX) planning, safety risk mitigation, and structural longevity.
