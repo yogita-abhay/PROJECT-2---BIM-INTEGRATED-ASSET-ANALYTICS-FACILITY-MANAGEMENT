@@ -195,7 +195,7 @@ Action: Install real-time load-limiting sensors on assets identified as 'High St
 
 1. Risk-Based Maintenance (RBM) Strategy
 Recommendation: Implement an "Automated Alert Hierarchy" that prioritizes Tunnels and Bridges.
-The Action: Configure the AI to trigger an immediate onsite inspection request whenever the Crack Severity Index for these specific asset classes exceeds a threshold of 1.5. This moves the team from reactive repairs to predictive maintenance.
+The Action: Configure the AI to trigger an immediate onsite inspection request whenever the Crack Severity Index for these specific asset classes exceeds a threshold of 1.5. This moves the team from reactive repairs to predictive maintenance.
 
 2. Structural Reinforcement & Retrofitting
 Recommendation: Conduct a targeted audit of projects with a Risk Intensity > 3.0.
