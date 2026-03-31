@@ -17,7 +17,9 @@ This project focuses on the Asset Analytics & Facility Management (FM) lifecycle
 
 ### **About the Dataset**
 
-This file (https://www.kaggle.com/datasets/ziya07/bim-ai-integrated-dataset) contains structured data for whole life cycle management of civil engineering projects using BIM and AI integration. It includes key attributes related to cost, schedule, structural health, environmental conditions, and risk assessment, enabling predictive analytics for optimized project execution. Each row represents a construction project or a specific project phase, with multiple variables capturing real-time IoT sensor data, drone-based monitoring, and historical construction records. The Intent: You are performing "Post-AI Analysis." You are taking the outputs of AI sensors and using Business Intelligence to make sense of them for the project manager.
+This file (https://www.kaggle.com/datasets/ziya07/bim-ai-integrated-dataset) contains structured data for whole life cycle management of civil engineering projects using BIM and AI integration. It includes key attributes related to cost, schedule, structural health, environmental conditions, and risk assessment, enabling predictive analytics for optimized project execution. Each row represents a construction project or a specific project phase, with multiple variables capturing real-time IoT sensor data, drone-based monitoring, and historical construction records. 
+
+The Intent: You are performing "Post-AI Analysis." You are taking the outputs of AI sensors and using Business Intelligence to make sense of them for the project manager.
 
 ### **Dataset Overview**
 
